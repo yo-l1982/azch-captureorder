@@ -5,7 +5,7 @@
 
 A containerised Go swagger API to capture orders, write them to MongoDb and an AMQP message queue.
 
-## Usage
+## FUCK U
 
 ### Swagger
 
